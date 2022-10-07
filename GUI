@@ -1,0 +1,7 @@
+local ldmsg="[Loading]:"
+local lddmsg="[Loaded]:"
+print(ldmsg,"UI")
+local UI=Instance.new("", game.CoreGui)
+print(lddmsg,"UI")
+print(ldmsg,"UIF")
+local UIF=Instance.new("Frame", UI)
